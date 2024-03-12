@@ -21,7 +21,7 @@ http://127.0.0.1:8000/auth/users/
 SUPERUSER
 superlemon
 lemon@123
-superlemon
+superuser@littlelemon.com
 
 CREATED USER (NOT STAFF)
 email: test@little.com
